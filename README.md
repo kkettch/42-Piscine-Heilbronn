@@ -3,13 +3,13 @@ Code from the Piscine qualifying round in Heilbronn, Germany on the dates 29.07.
 
 ## PROJECTS
 
-| Score (%) | Score (x/x) | Project  | Finished |
-| :---:     | :---:       | :---:    | :---:    |
-| 85%       | 8/9         | Shell 00 | ✅       |
-| 75%       | 6/8         | Shell 01 | ✅       |
-| 85%       | 7/8         | C00      | ✅       |
-| 100%      | 8/8         | C01      | ✅       |
-| 85%       | 11/12       | C02      | ✅       |
+| Score (%) | Score (x/x) | Project              | Finished |
+| :---:     | :---:       | :---:                | :---:    |
+| 85%       | 8/9         | [Shell 00](Shell_00) | ✅       |
+| 75%       | 6/8         | [Shell 01](Shell_01) | ✅       |
+| 85%       | 7/8         | [C00](C00)           | ✅       |
+| 100%      | 8/8         | [C01](C01)           | ✅       |
+| 85%       | 11/12       | [C02](C02)           | ✅       |
 | 75%       | 5/6         | C03      | ✅       |
 | 100%      | 6/6         | C04      | ✅       |
 | 100%      | 9/9         | C05      | ✅       |
