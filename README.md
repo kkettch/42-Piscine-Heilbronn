@@ -19,4 +19,16 @@ Code from the Piscine qualifying round in Heilbronn, Germany on the dates 29.07.
 | 100%      | 3/3         | C09      | ✅       |
 | 0%        | 1/4         | C10      | ❌       |
 | 100%      | 8/8         | C11      | ✅       |
+| 0%        | 0/?         | C12      | ❌       |
+| 0%        | 0/?         | C13      | ❌       |
 
+## RUSH
+
+# EXAMS 
+
+| Score (%) | Project    | Finished |
+| :---:     | :---:      | :---:    |
+| 50%       | Exam 00    | ✅       |
+| 100%      | Exam 01    | ✅       |
+| 100%      | Exam 02    | ✅       |
+| 84%       | Final Exam | ✅       |
