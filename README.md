@@ -24,6 +24,12 @@ Code from the Piscine qualifying round in Heilbronn, Germany on the dates 29.07.
 
 ## RUSH
 
+| Score (%) | Project | Finished | Comments                                          |
+| :---:     | :---:   | :---:    | :---                                              |
+| 112%      | Rush 00 | ✅       | Rush 03 failed because of the wrong function name |
+| 42%       | Rush 01 | ❌       | Malloc protection failed                          |
+| 26%       | Rush 02 | ❌       | Memory leak and wrong spaces for number 100       |
+
 ## EXAMS 
 
 | Score (%) | Project    | Finished |
