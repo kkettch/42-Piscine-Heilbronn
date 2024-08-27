@@ -24,7 +24,7 @@ Code from the Piscine qualifying round in Heilbronn, Germany on the dates 29.07.
 
 ## RUSH
 
-# EXAMS 
+## EXAMS 
 
 | Score (%) | Project    | Finished |
 | :---:     | :---:      | :---:    |
