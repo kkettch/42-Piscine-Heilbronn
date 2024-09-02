@@ -38,3 +38,8 @@ Code from the Piscine qualifying round in Heilbronn, Germany on the dates 29.07.
 | 100%      | Exam 01    | ✅       |
 | 100%      | Exam 02    | ✅       |
 | 84%       | Final Exam | ✅       |
+
+## ACCEPTANCE 
+
+<img width="430" alt="Снимок экрана 2024-09-02 в 12 20 50" src="https://github.com/user-attachments/assets/455a6190-c2ac-4fbc-bc3e-e18f937d9b26">
+
